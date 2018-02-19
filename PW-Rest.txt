@@ -1,6 +1,6 @@
 PW Rest für alle in der AD gelisteten Anwendungen
-Geben Sie Ihren Namen ein
-Geben Sie Ihren Vornahmen ein
-Geben Sie Ihr altes Passwort ein
-Geben Sie Ihr neues PW ein
-Geben Sie Ihr neues PW erneut zur Prüfung ein
+Geben Sie Ihren Namen ein:              
+Geben Sie Ihren Vornahmen ein:           
+Geben Sie Ihr altes Passwort ein:        
+Geben Sie Ihr neues PW ein:              
+Geben Sie Ihr neues PW zur Prüfung ein:  
