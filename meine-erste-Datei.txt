@@ -1,3 +1,4 @@
-Dies ist meine erste Datei unter GitHub
+Dies ist meine erste Datei unter GitHub - als Erweiterung1 vom 19.2.2018
 mal sehen was ich machen kann
 und wie leicht zu erlernen wenn man keine Ahnung hat
+Wie kann ich dies für eine PW REset verwenden?
